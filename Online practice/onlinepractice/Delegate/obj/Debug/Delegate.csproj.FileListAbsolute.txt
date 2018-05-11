@@ -1,0 +1,7 @@
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\bin\Debug\Delegate.exe.config
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\bin\Debug\Delegate.exe
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\bin\Debug\Delegate.pdb
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\obj\Debug\Delegate.exe
+D:\Online-Storage\GoogleDrive(dola)\Private\ICT\my-projects\PCS4-Assignment\Online practice\onlinepractice\Delegate\obj\Debug\Delegate.pdb
